@@ -1,4 +1,7 @@
-"""WebsiteMonitor integration."""
+"""
+Home Assistant component to monitor websites availability
+https://github.com/bmelim/websitemonitor
+"""
 
 import voluptuous as vol
 
