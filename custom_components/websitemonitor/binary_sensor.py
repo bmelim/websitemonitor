@@ -1,4 +1,8 @@
-"""Platform for sensor integration."""
+"""
+Home Assistant component to monitor websites availability
+https://github.com/bmelim/websitemonitor
+
+"""
 
 from datetime import timedelta
 from urllib.parse import urlparse
