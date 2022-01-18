@@ -25,10 +25,11 @@ Problematic - Response code >= 500
 * Restart Home Assistant.
 
 ### Example config
-
+`
 websitemonitor:
   websites:
     - url: https://labrat.io
       name: Labrat.io
     - url: https://google.com
 	  name: Google
+`
