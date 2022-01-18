@@ -33,3 +33,7 @@ websitemonitor:
     - url: https://google.com
       name: Google
 ```
+### Future Dev
+
+* Add service monitor (Other than website, such as servers or containers)
+* Add config options
