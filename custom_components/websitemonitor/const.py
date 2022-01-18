@@ -7,3 +7,5 @@ LOGGER = logging.getLogger(__package__)
 DOMAIN = "websitemonitor"
 
 CONF_WEBSITES = "websites"
+
+CONF_SERVICES = "services"
