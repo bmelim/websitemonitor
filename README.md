@@ -31,5 +31,5 @@ websitemonitor:
     - url: https://labrat.io
       name: Labrat.io
     - url: https://google.com
-	  name: Google
+      name: Google
 ```
