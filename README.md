@@ -1,10 +1,5 @@
 # WebsiteMonitor for HA
-[![GitHub Release][releases-shield]][releases]
-[![GitHub Activity][commits-shield]][commits]
-[![License][license-shield]](LICENSE)
 
-[![pre-commit][pre-commit-shield]][pre-commit]
-[![Black][black-shield]][black]
 Custom component for Home Assistant that monitors websites.
 based on https://github.com/mvdwetering/websitechecker
 
